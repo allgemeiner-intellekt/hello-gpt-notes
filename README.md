@@ -1,6 +1,6 @@
 # Hello, GPT!: A simple web app built with the OpenAI API, Next.js and Tailwind CSS
 
-This is the source code for the Hello, GPT! web app built with OpenAI's ChatGPT API, Next.js and Tailwind CSS covered in Fullstack GPT ([https://www.fullstack-gpt.com/](https://www.fullstack-gpt.com/)).
+This is a fork of the original repository for learning web application development. The original project is covered in Fullstack GPT ([https://www.fullstack-gpt.com/](https://www.fullstack-gpt.com/)).
 
 The terminal commands below are for Mac and other Linux-based systems. Your mileage may vary if you are using Windows or another operating system.
 
