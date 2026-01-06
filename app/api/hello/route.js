@@ -51,6 +51,10 @@
  */
 
 export const dynamic = "force-dynamic";
+// export: 导出变量让 Next.js 能"看到"它
+// const: 声明常量（值不可变）
+// 作用：禁用缓存，每次请求都执行代码获取新数据
+// 可选值: force-static(永远缓存), force-dynamic(从不缓存), auto(自动判断)
 
 // Logic for the `/api/hello` endpoint
 export async function GET() {
